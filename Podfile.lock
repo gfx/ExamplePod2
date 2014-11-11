@@ -1,0 +1,10 @@
+PODS:
+  - ExamplePod (0.0.1)
+
+DEPENDENCIES:
+  - ExamplePod
+
+SPEC CHECKSUMS:
+  ExamplePod: 46ab551e3cac6ae231c9af05172a4f340da750e4
+
+COCOAPODS: 0.35.0.rc2
